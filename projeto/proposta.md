@@ -45,4 +45,4 @@ python will.py
 
 ## Vídeo demonstrativo
 
-- Assista ao [vídeo]('./video_demonstrativo/will.mp4') demonstrativo da aplicação
+- Assista ao [vídeo](./video_demonstrativo/will.mp4) demonstrativo da aplicação
