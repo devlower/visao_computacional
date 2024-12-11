@@ -13,7 +13,7 @@ A tarefa consiste em 3 pontos focais:
 
 ### 1. Explicar o diagrama de [Milgram](https://learn.microsoft.com/pt-br/windows/mixed-reality/develop/mixed-reality-cloud-services), e relacionar os conceitos do diagrama com o conceito Realidade Estendida fazendo uma pesquisa sobre o assunto.
 
-- [Explicação e resolução da tarefa.]('/questão_1/relatório.md')
+- [Explicação e resolução da tarefa.](/questão_1/relatório.md)
 
 ### 2. Ler o artigo [“Developing and Evaluating a Virtual Reality-Based Navigation System for Pre-Sale Housing Sales”](https://www.mdpi.com/2076-3417/8/6/952)
 
@@ -23,11 +23,11 @@ A tarefa consiste em 3 pontos focais:
 
 - Além das perguntas que serão feitas às pessoas que participarão do seu experimento, observe e anote também comportamentos, olhares, comentários realizados pelos participantes e sensações (divertimento, medo, receio, curiosidade, entre outros). Inclua tudo que achar relevante em sua análise.
 
-- [Realização do experimento.]('/questão_2/experimento.md')
+- [Realização do experimento.](/questão_2/experimento.md)
 
 ### 3. Implemente sua própria aplicação de RA, podendo ser implementada com base em alguma implementação de referência. Ao usar a implementação de referência, documente-a e proponha alguma alteração relacionada a interatividade na aplicação.
 
-- [Proposta do projeto.]('/projeto/proposta.md')
+- [Proposta do projeto.](/projeto/proposta.md)
 
 </content>
 
