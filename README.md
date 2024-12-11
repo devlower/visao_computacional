@@ -27,7 +27,7 @@ A tarefa consiste em 3 pontos focais:
 
 ### 3. Implemente sua própria aplicação de RA, podendo ser implementada com base em alguma implementação de referência. Ao usar a implementação de referência, documente-a e proponha alguma alteração relacionada a interatividade na aplicação.
 
-- [Proposta do projeto.](/projeto/proposta.md)
+- [Proposta do projeto.](/projeto/README.md)
 
 </content>
 
